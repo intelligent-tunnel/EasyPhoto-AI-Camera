@@ -34,13 +34,13 @@ QQ群：**913801126**
 
 ### 小程序端
 
-![img](https://bxcyz11g0fg.feishu.cn/space/api/box/stream/download/asynccode/?code=OTlkYjkwZGRmYjY0YjU2OGY0Nzk3MTdjMTE0MjBlNmNfdmdBWU9McXYzQ3FMbHhVc0dMaTRnbXltdXp3T2ZralRfVG9rZW46UkZSMGJOdTlXbzhEcnF4ZDJydGNiZ0NQbnhjXzE2OTQ1OTQxMTA6MTY5NDU5NzcxMF9WNA)
+![img](https://qyncdn.heipig.com/zhisui-public/(null)-20230913164109446.(null))
 
-![img](https://bxcyz11g0fg.feishu.cn/space/api/box/stream/download/asynccode/?code=MDg2YzUyMDM1YmJjMWJkODhmOTg2ZWU3NDdlZDVhMzBfZ3E1TVc5Qk51eGdSQnVvcllyME9UdVJiQ1ltUGZzRXJfVG9rZW46UTIzZGJGZThlb2ttaGd4cWt1R2NMYmVCbm1iXzE2OTQ1OTQxMTA6MTY5NDU5NzcxMF9WNA)
+![img](https://qyncdn.heipig.com/zhisui-public/(null)-20230913164104637.(null))
 
-![img](https://bxcyz11g0fg.feishu.cn/space/api/box/stream/download/asynccode/?code=MjBiMGU3ODY1ZWMyYzA2ZTcyNGQ0ZGMzYTg1OTMzNGVfR0tqeVVQdVV4dnJ4eXpGRFFESFdtMEJaVWJNUkFsajlfVG9rZW46UXVvRWJNSWc3b0RPaVh4Y21ERmNLUGFPblNnXzE2OTQ1OTQxMTA6MTY5NDU5NzcxMF9WNA)
+![img](https://qyncdn.heipig.com/zhisui-public/(null)-20230913164100594.(null))
 
-![img](https://bxcyz11g0fg.feishu.cn/space/api/box/stream/download/asynccode/?code=YjAzZjQ2NzZjYTUwNTRmNjJjNjU0MGYzZDA2NGU0ZjVfWFV2YzhGb1RYd29FTmdZRTNUeTA3NGpkSDJMaTRiRlhfVG9rZW46TlNldmJDS0h4bzZqeXV4dFN4emMzQ3RTbmFkXzE2OTQ1OTQxMTA6MTY5NDU5NzcxMF9WNA)
+![img](https://qyncdn.heipig.com/zhisui-public/(null)-20230913164056500.(null))
 
 ### 移动端
 
@@ -50,19 +50,19 @@ QQ群：**913801126**
 
 #### 海报模板
 
-![img](https://bxcyz11g0fg.feishu.cn/space/api/box/stream/download/asynccode/?code=OWRiNDUxYTkxNGZiYTVhZDJhMGFjYWVmMDc5NDYyNDRfNTdUaTdqd1pvZ2NaUVVUNkMySGRhRnJvQnpYcWxFdWFfVG9rZW46U0xRT2JvMnkyb0Nzd254ODRnMGN2bW16bjJiXzE2OTQ1OTQxMTA6MTY5NDU5NzcxMF9WNA)
+![img](https://qyncdn.heipig.com/zhisui-public/(null)-20230913164050908.(null))
 
 #### 用户管理
 
-![img](https://bxcyz11g0fg.feishu.cn/space/api/box/stream/download/asynccode/?code=ODZmOTc0MDFlOGQwMjg5ZGI0YTE0ODlkYTAxNjA0N2RfUzlGRU1VMnh2R2RSR3RNMWU0cTBBbmVrcHRXTGpTTDhfVG9rZW46RGdZS2JmME9Qb0VwNE14eGdvb2NKeXJXbmZkXzE2OTQ1OTQxMTA6MTY5NDU5NzcxMF9WNA)
+![img](https://qyncdn.heipig.com/zhisui-public/(null)-20230913164047672.(null))
 
 #### 配置管理
 
-![img](https://bxcyz11g0fg.feishu.cn/space/api/box/stream/download/asynccode/?code=ZTkwNzY4MTEzMTg3NmE3Y2JlMWUwOGI3Y2RkZjQwNDVfREd6elVBZmMxUjBUcUZQcjd4VVg0djExS1lyTnZBOFdfVG9rZW46RDJBWmJWVkxKbzVDV1h4RU1xTmNBOGIybkpnXzE2OTQ1OTQxMTA6MTY5NDU5NzcxMF9WNA)
+![img](https://qyncdn.heipig.com/zhisui-public/(null)-20230913164043784.(null))
 
 #### 商品管理
 
-![img](https://bxcyz11g0fg.feishu.cn/space/api/box/stream/download/asynccode/?code=MzEzMmVkYWQ1OTg0YTI2NjJjMzY3YTNjYTQ2NWNmOWZfcTlQVTZmQTViZmdCbzZHM0NyMzk3Zkh1SUlGb09LcnhfVG9rZW46SWxxbmJiWGdwbzZGUjB4clB6VmNNWDc2bndlXzE2OTQ1OTQxMTA6MTY5NDU5NzcxMF9WNA)
+![img](https://qyncdn.heipig.com/zhisui-public/(null)-20230913164039964.(null))
 
 #### 订单管理
 
