@@ -48,30 +48,26 @@ QQ群：**913801126**
 
 ### 后台管理
 
-#### 海报模板
+#### 配置管理
 
-![img](https://qyncdn.heipig.com/zhisui-public/(null)-20230913164050908.(null))
+![image-20230913181243730](https://qyncdn.heipig.com/zhisui-public/image-20230913181243730.png)
 
 #### 用户管理
 
-![img](https://qyncdn.heipig.com/zhisui-public/(null)-20230913164047672.(null))
+![image-20230913181349807](https://qyncdn.heipig.com/zhisui-public/image-20230913181349807.png)
 
-#### 配置管理
+#### 海报模板
 
-![img](https://qyncdn.heipig.com/zhisui-public/(null)-20230913164043784.(null))
+![image-20230913181427344](https://qyncdn.heipig.com/zhisui-public/image-20230913181427344.png)
 
-#### 商品管理
+#### 腾讯云管理
 
-![img](https://qyncdn.heipig.com/zhisui-public/(null)-20230913164039964.(null))
+![image-20230913181630506](https://qyncdn.heipig.com/zhisui-public/image-20230913181630506.png)
+
+#### 套餐管理
+
+![image-20230913181758243](https://qyncdn.heipig.com/zhisui-public/image-20230913181758243.png)
 
 #### 订单管理
 
-![image-20230913163930461](https://qyncdn.heipig.com/zhisui-public/image-20230913163930461.png)
-
-#### 购买次数
-
-![img](https://qyncdn.heipig.com/zhisui-public/(null)-20230913163839205.(null))
-
-#### 生成图片
-
-![img](https://qyncdn.heipig.com/zhisui-public/(null)-20230913163835130.(null))
+![image-20230913181918613](https://qyncdn.heipig.com/zhisui-public/image-20230913181918613.png)
