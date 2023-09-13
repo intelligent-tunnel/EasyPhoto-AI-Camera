@@ -36,9 +36,7 @@ QQ群：**913801126**
 
 ![img](https://qyncdn.heipig.com/zhisui-public/(null)-20230913164109446.(null))
 
-
-
-![img](https://qyncdn.heipig.com/zhisui-public/(null)-20230913164104637.(null))
+![image-20230913164541214](https://qyncdn.heipig.com/zhisui-public/image-20230913164541214.png)
 
 ![img](https://qyncdn.heipig.com/zhisui-public/(null)-20230913164100594.(null))
 
