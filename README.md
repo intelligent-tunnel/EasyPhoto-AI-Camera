@@ -66,12 +66,12 @@ QQ群：**913801126**
 
 #### 订单管理
 
-![img](https://bxcyz11g0fg.feishu.cn/space/api/box/stream/download/asynccode/?code=OWZiMGY3OTIzZWNmMTZkZmExZWIxNDljOTBiOWE5NDhfekRDSXphSWtONGFWWFV1RWNsNnpYVGRxc2NiMFloWmRfVG9rZW46TGxpZWJPSkE3b3FXTUt4MnZGR2M2UWJQbmRmXzE2OTQ1OTQxMTA6MTY5NDU5NzcxMF9WNA)
+![image-20230913163930461](https://qyncdn.heipig.com/zhisui-public/image-20230913163930461.png)
 
 #### 购买次数
 
-![img](https://bxcyz11g0fg.feishu.cn/space/api/box/stream/download/asynccode/?code=Njk5ZTFlOTRjNDhiY2Q1YjVhOWY4YmRlMDQ2Yjk0NGZfbzlocWJoNFExTnFDUER3UDRNVVZMM0NHa3RpbjNNV0JfVG9rZW46SFJnbGIzVkcyb0VNbnV4emswaWNDS1JIbnFmXzE2OTQ1OTQxMTA6MTY5NDU5NzcxMF9WNA)
+![img](https://qyncdn.heipig.com/zhisui-public/(null)-20230913163839205.(null))
 
 #### 生成图片
 
-![img](https://bxcyz11g0fg.feishu.cn/space/api/box/stream/download/asynccode/?code=YjI5MzdkY2RkMjE5YTY3OTcwODNjZTA0YjUxODhiMjlfS2hiS2ttd0dTbXJET1d0SXNEcXFoMEtnNFI3TFc4M1RfVG9rZW46SUlsTmIxS2hMb3VvdEt4TDJ5OWNRUEQ3bkpmXzE2OTQ1OTQxMTA6MTY5NDU5NzcxMF9WNA)
+![img](https://qyncdn.heipig.com/zhisui-public/(null)-20230913163835130.(null))
