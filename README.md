@@ -1,10 +1,10 @@
 # EasyPhoto-AI-Camera
 
-🔥🔥*AI*头像、*AI**写**真*、*AI*数字分身、类妙鸭相机小程序代部署，源码部署，facechain、ip-adapter、AI写真系统，当前AI写真市场火爆，本项目只仅需1张照片即可生成一套胶片质感的写真大片！
+🔥🔥*AI人物写真*、*AI*数字分身、AI头像、Lora、comfyui、stable diffusion、SD、instant ID、提供类妙鸭相机小程序代部署，源码部署，facechain、ip-adapter、AI写真系统，当前AI写真市场火爆，本项目只仅需1张照片即可生成一套胶片质感的写真大片！
 
 👉 **[点击查看官方文档详细介绍](https://apifox.com/apidoc/shared-8da75c87-bd4c-410e-9e23-9d9d6c69a43f/doc-3642941)**
 
-市场巨大，利润丰厚，售后成本低，真正的小投入大回报的暴力项目！可支持抖音，微信小程序，H5三端一体代部署，源码直接部署到自己服务器，完全自主品牌！
+支持微信小程序，H5，微信公众号，三端一体代部署，一键部署到自己服务器，数据本地化，完全自主品牌！
 
 **本项目仍在持续更新中，最新开发进度请以群内演示站点为准**
 
@@ -24,9 +24,9 @@
 
 ## 交流咨询-项目演示
 
-**若群聊二维码过期，可添加微信，扫码咨询**：
+**添加客服微信，扫码咨询**：
 
-![梦掌柜](https://qyncdn.heipig.com/zhisui-public/%E6%A2%A6%E6%8E%8C%E6%9F%9C.jpg)
+![image-20240516120131623](https://qyncdn.heipig.com/zhisui-public/image-20240516120131623.png)
 
 # 产品概述
 
